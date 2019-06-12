@@ -3,6 +3,8 @@ layout: post
 title: Azure Deployment Slots with Backward Compatible DB Migration!
 ---
 
+When I was using Azure deployment slot, it was cool until I faced issue with my database migration while I tried to swap back to my previous code version. This article will explain how to tackle issues related to database compatibility when we are using deployment slot. 
+
 ## Deployment Slot
 
 1. Deploy app to staging slot
