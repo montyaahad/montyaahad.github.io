@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+About me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have been working with .NET technologies for more than 7 years. Worked on several large scale applications with US and EU clients. Most of them are financial solutions for big organizations. Currently I am working on a project focused on mobile banking to bank the unbanked people.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:montyaahad@gmail.com)
