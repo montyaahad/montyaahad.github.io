@@ -5,7 +5,7 @@ title: Azure Deployment Slots with Backward Compatible DB Migration!
 
 Deployment Slot
 
-![_config.yml]({{ site.baseurl }}/deployment-slot/azure-slots-diagram.png)
+![_config.yml]({{ site.baseurl }}/images/deployment-slot/azure-slots-diagram.png)
 
 1. Deploy app to staging slot
 2. Test the app on staging slot
