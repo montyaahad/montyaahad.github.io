@@ -5,12 +5,12 @@ title: Azure Deployment Slots with Backward Compatible DB Migration!
 
 ## Deployment Slot
 
-![_config.yml]({{ site.baseurl }}/images/deployment-slot/azure-slots-diagram.png)
-
 1. Deploy app to staging slot
 2. Test the app on staging slot
 3. You are happy with the changes, Swap the slots
 4. Messed up in Production! Roll back your deployment. Simply Swap back to reverse the effect.
+
+![_config.yml]({{ site.baseurl }}/images/deployment-slot/azure-slots-diagram.png)
 
 ### Pros
 - Zero-downtime deployments
