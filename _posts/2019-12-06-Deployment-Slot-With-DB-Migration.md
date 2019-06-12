@@ -2,7 +2,6 @@
 layout: post
 title: Azure Deployment Slots with Backward Compatible DB Migration!
 ---
-###### June 12, 2019
 
 When I was using Azure deployment slot, it was cool until I faced issue with my database migration while I tried to swap back to my previous code version. This article will explain how to tackle issues related to database compatibility when we are using deployment slot. 
 
