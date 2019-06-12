@@ -18,16 +18,16 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:montyaahad@gmail.com
+  email: montyaahad@gmail.com
   facebook:
   flickr:
-  github:https://github.com/montyaahad
+  github: https://github.com/montyaahad
   instagram:
-  linkedin:https://www.linkedin.com/in/montyaahad/
+  linkedin: https://www.linkedin.com/in/montyaahad/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
-  stackoverflow:users/1055123/abdul-ahad
+  stackoverflow: users/1055123/abdul-ahad
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
